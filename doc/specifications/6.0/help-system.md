@@ -1,6 +1,7 @@
 # Plan: user manuals and help maintained inside Exponential
 
-Status: proposal, 18 October 2026. Companion page: [the help style guide](help-style-guide.md).
+Status: proposal, 18 October 2026. Companion pages: [the help standards](help-standards.md)
+and [the help style guide](help-style-guide.md).
 
 ## Idea
 
@@ -19,7 +20,7 @@ in.
 
 | # | Question | Decision |
 |---|---|---|
-| 1 | Documentation standard | **DITA 1.3** (OASIS) as the information model; content rules after IEC/IEEE 82079-1:2019 and ISO/IEC/IEEE 26514; e-books after EPUB Accessibility 1.1 / WCAG 2.2 AA |
+| 1 | Documentation standard | **DITA 1.3** (OASIS) as the information model; content rules after IEC/IEEE 82079-1:2019 and ISO/IEC/IEEE 26514:2022; e-books after EPUB Accessibility 1.1 / WCAG 2.2 AA |
 | 2 | Reuse | **Topic pool + maps**: every topic exists once; manuals refer to topics through an ordered relation list |
 | 3 | Languages | The model is translatable from the start (Exponential translations per object, `xml:lang` in the export). Which languages are written is a decision per installation |
 | 4 | Access | What a reader needs **before** having an account is public. Everything else requires login and a matching role |
@@ -258,6 +259,7 @@ Two kernel facts the scripts have to handle:
 ## Related pages
 
 - [Help style guide](help-style-guide.md)
+- [Help standards](help-standards.md)
 - [Sections](../../guides/sections.md)
 - [Object states](../../guides/object-states.md)
 - [Roles and policies](../../guides/roles-and-policies.md)

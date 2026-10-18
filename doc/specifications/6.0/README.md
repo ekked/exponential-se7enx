@@ -25,6 +25,7 @@ default, scope) and ends with "Related pages".
 | [E-mail preferences: the law checklist](mail-preferences-compliance.md) | CAN-SPAM, GDPR and ePrivacy, CCPA/CPRA, CASL, RFC 8058 mapped to code and tests; the gaps |
 | [Help system](help-system.md) | Help and manuals as content: DITA topic classes, sections, object states, roles, validator, web, context help and e-book delivery |
 | [Help style guide](help-style-guide.md) | Editorial rules for help topics: topic types with templates, steps, notices, figures, `help_id`, fields, terminology |
+| [Help standards](help-standards.md) | DITA 1.3, IEC/IEEE 82079-1, ISO/IEC/IEEE 26514, ISO 3864-2, EPUB Accessibility and WCAG: what the help adopts from each, what it does differently, how far it goes |
 
 ## Databases
 

@@ -421,4 +421,5 @@ topic.
 ## Related pages
 
 - [Help system plan](help-system.md)
+- [Help standards](help-standards.md)
 - [Glossary](../../glossary.md)
