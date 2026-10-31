@@ -23323,7 +23323,7 @@ bad297561536cd08dcbb7adb14af6271  kernel/classes/debugbar/exprenderstats.php
 a59e7722d7d542f3fd37517175faf889  kernel/classes/expadminpagination.php
 b98d6d508d9e1ad1f595ec2d5a4622cb  kernel/classes/expanonymouspublicpolicies.php
 e37b92a509e502956a6317750d478f0c  kernel/classes/expbenchmark.php
-05abff93c45ccbc77079fc5d01875569  kernel/classes/expbenchmarkhttp.php
+c4428669b4d5835e6fbd5ec19ea6bcc7  kernel/classes/expbenchmarkhttp.php
 dc12399d3e06ce2689d9fdc5a0c19335  kernel/classes/expbenchmarkkernel.php
 1128be3474dbfb631037c851b7a5e212  kernel/classes/expbenchmarkmicro.php
 6e1e520c83fa6c7b99f8a1405002f7d9  kernel/classes/expbookmarkpage.php
@@ -25293,7 +25293,7 @@ dbb08bb0e7dd7f3871eccab2fe96c691  lib/eztemplate/classes/eztemplatewhilefunction
 6b10748123dbb1ee64e43d89ca7962a4  lib/ezutils/classes/ezcachehelper.php
 ec0113527fb59183b48344a81e9e5e62  lib/ezutils/classes/ezcli.php
 37bb332dad96b082a2857407c22c0ce8  lib/ezutils/classes/ezdatetimevalidator.php
-7887ea97e9ea7f3293a762a8b92cc83d  lib/ezutils/classes/ezdebug.php
+210fbfb7a19ab9d2eb9934513dcfab82  lib/ezutils/classes/ezdebug.php
 4102c66cc557c5b033f211e35664553c  lib/ezutils/classes/ezdebugsetting.php
 56ea5fdddcf36ddbd0d2944a67499748  lib/ezutils/classes/ezexecution.php
 b671b6c2a143cd801f3ce3ce4a01248c  lib/ezutils/classes/ezexpiryhandler.php
@@ -26799,7 +26799,7 @@ ad3ef84f9d21cd4076b60e33034063b0  tests/bootstrap.php
 f6aad95f969453408005cbbf976919be  tests/settings/test_ezmail_plain.ini
 ebbc3ce510ff4a7c98c5587991dac113  tests/settings/test_ezmail_ssl.ini
 1b7dcb4dde933b1ebf8f8f93f3df7d55  tests/suite.php
-4ebae3b7cc17c9605d8890999d3fc307  tests/test-map.json
+f28b5bc075e1d844824b1308d0680fe1  tests/test-map.json
 4f2af04e2bf61d9e7bfbba8181fc08c0  tests/tests/bin/CiWorkflowPullRequestTest.php
 b152194c06e5b05fb18f088d0afd219c  tests/tests/bin/ConsoleExtensionAliasTest.php
 cf640022325724fc8a061137bbc5045e  tests/tests/bin/CopyrightNoticeTest.php
@@ -28395,6 +28395,7 @@ cd9b15cbda2d7cf4ab918f89745c1f86  tests/tests/lib/ezutils/eZURITransformURINullT
 d9f91ce895a838c5d845e011fdaf82c7  tests/tests/lib/ezutils/expDebugBarReportPanelHeightTest.php
 38dd51e326a256aba5d8a3f7cbea1eab  tests/tests/lib/ezutils/expDebugBarReportRuntimeChipsTest.php
 cfaa7a42b393df575c088bbeb26e29f1  tests/tests/lib/ezutils/expDebugBarReportToolbarThemeTest.php
+837fe39430fd90c8f42800cfe3751a51  tests/tests/lib/ezutils/expDebugOffHeaderTest.php
 5c2924a59ad2748766f3ab2a5999fa7b  tests/tests/lib/ezutils/expDebugReportNoInlineCssTest.php
 e81fa7dbd78e2bb8974da3c6c02d5576  tests/tests/lib/ezutils/ezdebug_regression.php
 897872a57e5e48097870daee42b04d7b  tests/tests/lib/ezutils/ezhttptool_regression.php
